@@ -31,7 +31,7 @@
     "apollo-server-lambda": "^2.4.8",
     "apollo-server-micro": "^2.4.8",
     "apollo-utilities": "^1.3.2",
-    "aws-lambda": "^0.1.2",
+    "aws-lambda": "^1.0.5",
     "aws-serverless-express": "^3.3.6",
     "axax": "^0.1.24",
     "body-parser": "^1.18.3",
